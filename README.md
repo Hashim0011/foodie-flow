@@ -4,6 +4,8 @@
 
 **A responsive recipe app to browse, favourite, and manage your own recipes — with AI that fills in the details for you.**
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-0FBB7E?style=for-the-badge&logo=githubpages&logoColor=white)](https://hashim0011.github.io/foodie-flow/)
+
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router_7-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
